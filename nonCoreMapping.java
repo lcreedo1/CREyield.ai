@@ -10,6 +10,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 //some code taken from: https://howtodoinjava.com/library/readingwriting-excel-files-in-java-poi-tutorial/#reading_excel_file
 
+
+//Program that takes files with data arranged in different ways input from the command line, 
+//extracts specific data, and exports to an excel sheet where the data can be viewed uniformly
 public class nonCoreMapping {
 
     public static void main(String[] args) throws IOException {
